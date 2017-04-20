@@ -1,5 +1,5 @@
 {
-	"name": "@typse/leaflet.gridlayer.googlemutant.d.ts",
+	"name": "@types/leaflet.gridlayer.googlemutant.d.ts",
 	"description": "Typescript definition file for leaflet.gridlayer.googlemutant",
 	"version": "0.0.2",
 	"license": "MIT"
